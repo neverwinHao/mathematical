@@ -3,4 +3,4 @@
 
 ## Abstract
 
-![abstract](.\img\abstract.png)
+![abstract](https://github.com/neverwinHao/mathematical/blob/main/img/abstract.png)

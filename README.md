@@ -1,5 +1,8 @@
 # Mathematical Contest in Modeling
-2023 mathematical modeling B **first prize** in Shandong Province technical scheme
+2023年全国大学生数学建模竞赛山东省一等奖（B题）
+
+## Paper
+Our work can be found here
 
 ## Visualization
 

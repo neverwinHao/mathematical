@@ -2,7 +2,7 @@
 2023年全国大学生数学建模竞赛山东省一等奖（B题）
 
 ## Paper
-Our work can be found here
+Our work can be found [here](https://online.fliphtml5.com/bupiz/lbnd/#p=1).
 
 ## Visualization
 
